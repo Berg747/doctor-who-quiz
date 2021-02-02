@@ -1,5 +1,5 @@
 {
-  "name": "doctor-who",
+  "name": "with-styled-components",
   "version": "1.0.1",
   "scripts": {
     "dev": "next",
